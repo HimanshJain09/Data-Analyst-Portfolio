@@ -53,7 +53,7 @@ Dataset includes **orders, shipping details, customer segments, product categori
 ## 📁 Files in this Folder
 - `furniture_analysis.sql` → SQL queries used for exploration.  
 - `analysis.ipynb` → Python notebook with cleaning, EDA, and visualizations.  
-- `dataset_sample.csv` → Small anonymized dataset for reference.  
+- `orders.csv` → Small anonymized dataset for reference.  
 - `visuals/` → Screenshots of charts & dashboards.  
 
 ---
