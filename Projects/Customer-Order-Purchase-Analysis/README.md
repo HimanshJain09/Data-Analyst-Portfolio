@@ -9,7 +9,7 @@ This project analyzes **customer purchase data** to uncover insights about:
 
 ## 🛠 Tools & Techniques
 - **SQL** → Data extraction, aggregations, joins  
-- **Python (Pandas, Matplotlib)** → Data cleaning, EDA, visualizations  
+- **Python (Pandas, Matplotlib)** → Data cleaning, ETL, visualizations  
 - **Jupyter Notebook** → End-to-end workflow  
 
 ## 📂 Dataset Description
